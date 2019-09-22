@@ -50,7 +50,7 @@ Ponadto może się przydać:
 Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sugestie, pisz śmiało na adres <ohhtjm@gmail.com> .
 
 
-## Historia wydań:
+## Historia wydań (milestones):
 1. v.1.0  
 12.02.2017 | 238 kart.
 2. v.2.0  
@@ -72,7 +72,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 10. v.5.5  
 12.05.2019 | 1240 kart.
 11. v.5.6  
-15.08.2019 | 1354 kart.
+15.08.2019 | 1354 karty.
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
@@ -310,7 +310,7 @@ make like a banana and split,
 - clout list,
 - candle in the wind,
 - castles in the sky,
-- xxx,
+- conspicuous consumption,
 - xxx,
 - xxx,
 
