@@ -1,10 +1,14 @@
 Idiomy Dnia. ^(pl - ang/ang-pl)^
 =======================
 
-# v.5.6 - 15.08.2019 | 1354 karty.
+> Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
 
-Najnowszą wersję znajdziesz tutaj:
-https://github.com/ThomasLeigh/IdiomyDnia-angielski/blob/master/Idiomy-Dnia-US_UK-PL.apkg
+> **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**
+https://github.com/ThomasLeigh/IdiomyDnia-angielski
+
+> "kamienie milowe":  
+**v.5.6 - 15.08.2019 | 1354 karty.**  
+https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 Przydatne informacje (metoda nauki, program Anki, itp.):
 https://github.com/ThomasLeigh/IdiomyDnia-angielski

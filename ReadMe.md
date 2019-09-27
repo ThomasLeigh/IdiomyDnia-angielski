@@ -51,6 +51,16 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 
 
 ## Historia wydań (milestones):
+
+> Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
+
+> **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**
+https://github.com/ThomasLeigh/IdiomyDnia-angielski
+
+> "kamienie milowe":  
+**v.5.6 - 15.08.2019 | 1354 karty.**  
+https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
+
 1. v.1.0  
 12.02.2017 | 238 kart.
 2. v.2.0  
@@ -311,8 +321,8 @@ make like a banana and split,
 - candle in the wind,
 - castles in the sky,
 - conspicuous consumption,
-- xxx,
-- xxx,
+- control freak,
+- skyrocket (into something or some place);
 
 
 ^--  
