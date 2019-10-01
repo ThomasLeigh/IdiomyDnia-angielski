@@ -3,18 +3,19 @@ Idiomy Dnia. ^(pl - ang/ang-pl)^
 
 > Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
 
-> **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**
+> **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**   
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
+
+> historia aktualizacji:   
+https://github.com/ThomasLeigh/IdiomyDnia-angielski/commits/master
 
 > "kamienie milowe":  
 **v.5.6 - 15.08.2019 | 1354 karty.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
-Przydatne informacje (metoda nauki, program Anki, itp.):
+Przydatne informacje (metoda nauki, program Anki, itp.):    
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
-Historia wydań ("kamienie milowe"):
-https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 
 > "Your idiom's as good as your English." ^(- said Jason Bourne to Wu Song, a Chinese, in *"The Bourne Supremacy"*)^
