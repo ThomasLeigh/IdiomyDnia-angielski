@@ -322,7 +322,8 @@ make like a banana and split,
 - castles in the sky,
 - conspicuous consumption,
 - control freak,
-- skyrocket (into something or some place);
+- skyrocket (into something or some place),
+- damn the torpedoes (, full steam ahead);
 
 
 ^--  
