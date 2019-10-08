@@ -323,7 +323,8 @@ make like a banana and split,
 - conspicuous consumption,
 - control freak,
 - skyrocket (into something or some place),
-- damn the torpedoes (, full steam ahead);
+- damn the torpedoes (, full steam ahead),
+- a dealbreaker;
 
 
 ^--  
