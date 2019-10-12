@@ -324,7 +324,8 @@ make like a banana and split,
 - control freak,
 - skyrocket (into something or some place),
 - damn the torpedoes (, full steam ahead),
-- a dealbreaker;
+- a dealbreaker,
+- desperate times call for desperate measures;
 
 
 ^--  
