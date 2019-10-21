@@ -3,6 +3,7 @@ Idiomy Dnia. ^(pl - ang/ang-pl)^
 
 > "Your idiom's as good as your English." ^(- said Jason Bourne to Wu Song, a Chinese, in *"The Bourne Supremacy"*)^
 
+czytaj również [FAQ][8]
 
 ## Opis skrócony:
 Idiomy stanowią jedne z najbardziej interesujących konstrukcji językowych, z pomocą których znacznie szybciej wyrazisz to co masz na myśli, przy okazji brzmiąc bardziej natywnie.
@@ -43,7 +44,7 @@ Ponadto może się przydać:
 
 
 ## Aktualizacje.
-**Baza jest systematycznie rozbudowywana oraz udoskonalana**: **_co trzy miesiące_** ^(patrz historia wydań poniżej)^ możesz spodziewać się kolejnego wydania, zawierającego tak kolejne idiomy - jak i ewentualne poprawki/ulepszenia. Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach [niniejszej strony na *GitHub*][6], jak również w [katalogu baz *Ankiego*][5].
+**Baza jest często rozbudowywana oraz udoskonalana**: najnowszą wersję, zawierającą tak nowe idiomy, jak i ulepszenia już istniejącej treści, znajdziesz na łamach [niniejszej strony na *GitHub*][6], jak również w [katalogu baz *Ankiego*][5].
 
 
 ## Kontakt
@@ -349,3 +350,5 @@ Pozdrawiam oraz życzę miłej zabawy!
 [6]: https://github.com/ThomasLeigh/IdiomyDnia/releases
 
 [7]: https://apps.ankiweb.net#download
+
+[8]: https://github.com/ThomasLeigh/IdiomyDnia-angielski/blob/master/FAQ.md

@@ -16,6 +16,9 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 Przydatne informacje (metoda nauki, program Anki, itp.):    
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
+Czytaj również FAQ:   
+https://github.com/ThomasLeigh/IdiomyDnia-angielski/blob/master/FAQ.md
+
 
 
 > "Your idiom's as good as your English." ^(- said Jason Bourne to Wu Song, a Chinese, in *"The Bourne Supremacy"*)^
@@ -39,7 +42,7 @@ Stąd efektywność/trafność przełożenia idiomów z jednego języka na drugi
 
 
 ## Aktualizacje.
-**Baza jest systematycznie rozbudowywana oraz udoskonalana**: **_co trzy miesiące_** możesz spodziewać się kolejnego wydania, zawierającego tak kolejne idiomy - jak i ewentualne poprawki/ulepszenia. Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach wspomnianej wcześniej strony na *GitHub*, jak również w katalogu baz *Ankiego*: https://ankiweb.net/shared/decks/idiomy%20dnia .
+**Baza jest często rozbudowywana oraz udoskonalana**: najnowszą wersję, zawierającą tak nowe idiomy, jak i ulepszenia już istniejącej treści, znajdziesz na łamach strony https://github.com/ThomasLeigh/IdiomyDnia/releases , jak również w katalogu baz Ankiego: https://ankiweb.net/shared/decks/idiomy%20dnia .
 
 
 ## Kontakt
