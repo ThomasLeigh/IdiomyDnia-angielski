@@ -326,7 +326,9 @@ make like a banana and split,
 - skyrocket (into something or some place),
 - damn the torpedoes (, full steam ahead),
 - a dealbreaker,
-- desperate times call for desperate measures;
+- desperate times call for desperate measures,
+- have (something) down cold,
+- don't go there;
 
 
 ^--  

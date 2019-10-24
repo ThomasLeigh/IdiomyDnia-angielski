@@ -31,7 +31,7 @@ Abstrahując od samej natury idiomów, w której leży ich zwyczajowy brak dosł
 
 W sporej liczbie przypadków biorę pod uwagę, iż mogę nie znać lub nie pamiętać polskiego zwrotu, który najlepiej nadawałby się w danym przypadku - wówczas odnotowuję takie pozycje na specjalnej liście, dostępnej pod adresem https://github.com/ThomasLeigh/IdiomyDnia-angielski (w dolnej części strony). Jeżeli chciał(a)byś zasugerować lepszy odpowiednik dla konkretnego idiomu, pisz śmiało na ohhtjm@gmail.com .
 
-* Co oznacza dopisek "(#2)" przy niektórych idiomach?
+* Co oznacza dopisek "#2" przy niektórych idiomach?
 
 Dotyczy on przypadków, w których użyłem dokładnie takich samych polskich odpowiedników dla co najmniej dwóch różnych idiomów. Znów, jest kwestią do namysłu czy pozostawić takie idiomy osobno, czy może złączyć w jedną kartę? Poradzisz :) ?
 
