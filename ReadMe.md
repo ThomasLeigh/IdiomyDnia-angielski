@@ -328,7 +328,8 @@ make like a banana and split,
 - a dealbreaker,
 - desperate times call for desperate measures,
 - have (something) down cold,
-- don't go there;
+- (the) elephant in the room,
+- Elvis had left the building,
 
 
 ^--  
