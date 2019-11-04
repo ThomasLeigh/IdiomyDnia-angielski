@@ -3,6 +3,13 @@ Idiomy Dnia - FAQ
 	updated ...at some nice day of October 27 :) (4:44 ᴘ.ᴍ.)
 
 
+zalecany approach nauki w przypadku kilku idiomów o tych samych znaczeniach
+
+różniące się cudzysłowy
+„teraz, gdy o tym wspominasz...”
+“now (that) you mention it...”
+
+
 * Zauważyłem że aktualizujesz bazę co kilka dni. Jak często zalecałbyś pobierać nowe wersje?
 
 Najczęściej raz w miesiącu - choć to oczywiście kwestia bardzo indywidualna i możesz przedkładać “najnowszą i najlepszą” wersję ponad dyskomfort częstego podmieniania na Własnym urządzeniu. Gdybym jednak miał wyznaczyć optymalną opcję, proponowałbym właśnie raz na miesiąc - by nie sprawiało to zbyt wiele zachodu, a jednocześnie byś zawsze mógł/mogła się cieszyć dość świeżą wersją kolekcji.
