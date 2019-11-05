@@ -330,6 +330,8 @@ make like a banana and split,
 - have (something) down cold,
 - (the) elephant in the room,
 - Elvis had left the building,
+- fair-weather fan,
+- fall off the back of a truck,
 
 
 ^--  
