@@ -332,6 +332,8 @@ make like a banana and split,
 - Elvis had left the building,
 - fair-weather fan,
 - fall off the back of a truck,
+- feed (someone) to the wolves,
+
 
 
 ^--  
