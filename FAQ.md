@@ -1,6 +1,6 @@
 Idiomy Dnia - FAQ
 =======================
-	updated: ...at some nice night of November 4 :) (11:55 ᴘ.ᴍ.))
+	updated: ...at some nice night of November 15 :) (11:28 ᴘ.ᴍ.)
 
 
 * Zauważyłem że aktualizujesz bazę co kilka dni. Jak często zalecałbyś pobierać nowe wersje?
@@ -34,6 +34,11 @@ Z tej samej przyczyny: frazie *„have (a) loose lip(s)”* zdecydowanie brak cz
 * Dlaczego niektóre idiomy są częściowo wytłuszczone?
 
 Ma to miejsce głównie w przypadku, gdy dany idiom występuje również w formie skróconej - czy też innymi słowy: nie zawsze występuje w pełnej formie (jak np. *„a word to the wise* - *a word to the wise is enough”*). Wówczas wytłuszczona część sygnalizuje ów skrócony wariant.
+
+* Mój Anki nie wyświetla wytłuszczonej czcionki...
+
+Sprawdź w ustawieniach wyglądu, 
+jakiej czcionki używasz. Czcionki *OpenSans* nie rozróżniają formatowania tekstu, stąd nie wyświetlą wytłuszczeń, kursywy, czy podkreśleń zastosowanych w kolekcji.
 
 * Dlaczego unikasz bardziej dosłownych tłumaczeń, jak np. w „‘busy little beaver’ = ‘pracowita pszczółka’”, „‘happy like a clam in mud at high tide’ jako ‘szczęśliwy jak skowronek’”, „‘devil in disguise’ jako ‘wilk w owczej skórze’”?
 
