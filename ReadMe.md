@@ -334,6 +334,7 @@ make like a banana and split,
 - fall off the back of a truck,
 - feed (someone) to the wolves,
 - FWIW (for what it’s worth),
+- hot take,
 
 
 
