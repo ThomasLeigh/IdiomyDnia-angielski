@@ -84,6 +84,8 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 12.05.2019 | 1240 kart.
 11. v.5.6  
 15.08.2019 | 1354 karty.
+12. v.5.7  
+05.03.2020 | 1495 kart;
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
@@ -335,6 +337,8 @@ make like a banana and split,
 - feed (someone) to the wolves,
 - FWIW (for what it’s worth),
 - hot take,
+- different strokes for different folks,
+- eye candy,
 
 
 
