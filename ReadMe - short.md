@@ -10,7 +10,7 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/commits/master
 
 > "kamienie milowe":  
-**v.5.7 - 05.03.2020 | 1495 kart.**  
+**v.5.8 - 14.08.2020 | 1521 kart.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 Przydatne informacje (metoda nauki, program Anki, itp.):    

@@ -59,7 +59,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
 > "kamienie milowe":  
-**v.5.6 - 15.08.2019 | 1354 karty.**  
+**v.5.8 - 14.08.2020 | 1521 kart.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 1. v.1.0  
@@ -86,6 +86,8 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 15.08.2019 | 1354 karty.
 12. v.5.7  
 05.03.2020 | 1495 kart;
+13. v.5.8  
+14.08.2020 | 1521 kart;
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
@@ -339,6 +341,11 @@ make like a banana and split,
 - hot take,
 - different strokes for different folks,
 - eye candy,
+- bang for the buck,
+- quit cold turkey,
+- hassle and bassle.
+- hey-ho,
+- different strokes for different folks.
 
 
 
