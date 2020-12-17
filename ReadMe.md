@@ -59,7 +59,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
 > "kamienie milowe":  
-**v.5.8 - 14.08.2020 | 1521 kart.**  
+**v.5.9 - 17.12.2020 | 1525 kart.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 1. v.1.0  
@@ -85,9 +85,11 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 11. v.5.6  
 15.08.2019 | 1354 karty.
 12. v.5.7  
-05.03.2020 | 1495 kart;
+05.03.2020 | 1495 kart.
 13. v.5.8  
-14.08.2020 | 1521 kart;
+14.08.2020 | 1521 kart.
+14. v.5.9  
+17.12.2020 | 1525 kart;
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
@@ -196,7 +198,6 @@ make like a banana and split,
 - a mother hen,
 - mouth-breathing,
 - move house,
-- move through the gears,
 - spot the difference,
 - nature's way of (doing something),
 - (as) nice as ninepence,
@@ -319,7 +320,6 @@ make like a banana and split,
 - blood in the water,
 - the bigger they come, the harder they fall,
 - boots and all,
-- bring a knife to a gunfight,
 - canary in a coal mine,
 - amateur hour,
 - clout list,
@@ -345,7 +345,8 @@ make like a banana and split,
 - quit cold turkey,
 - hassle and bassle.
 - hey-ho,
-- different strokes for different folks.
+- different strokes for different folks,
+- inch-perfect,
 
 
 
