@@ -59,7 +59,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
 > "kamienie milowe":  
-**v.5.9 - 17.12.2020 | 1525 kart.**  
+**v.6.0 - 13.02.2021 | 1529 kart.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 1. v.1.0  
@@ -89,7 +89,9 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 13. v.5.8  
 14.08.2020 | 1521 kart.
 14. v.5.9  
-17.12.2020 | 1525 kart;
+17.12.2020 | 1525 kart,
+15. v.6.0  
+13.02.2021 | 1529 kart;
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
