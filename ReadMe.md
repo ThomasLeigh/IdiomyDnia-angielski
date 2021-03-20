@@ -370,7 +370,7 @@ Pozdrawiam oraz życzę miłej zabawy!
 
 [5]: https://ankiweb.net/shared/decks/idiomy%20dnia
 
-[6]: https://github.com/ThomasLeigh/IdiomyDnia/releases
+[6]: https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 [7]: https://apps.ankiweb.net#download
 
