@@ -92,6 +92,8 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 17.12.2020 | 1525 kart,
 15. v.6.0  
 13.02.2021 | 1529 kart;
+16. v.6.1  
+12.08.2021 | 1535 kart;
 
 
 ## Idiomy poszukujące Swojej polskiej pary :) znajdziesz tutaj:
