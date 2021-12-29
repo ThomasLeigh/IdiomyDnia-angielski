@@ -1,6 +1,8 @@
 Idiomy Dnia. ^(pl - ang/ang-pl)^
 =======================
 
+> Angielski dla początkujących na Telegramie: https://t.me/angielskiPrzyjazny
+
 > Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
 
 > **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**   

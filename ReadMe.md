@@ -1,6 +1,8 @@
 Idiomy Dnia. ^(pl - ang/ang-pl)^
 =======================
 
+> Angielski dla początkujących na Telegramie: https://t.me/angielskiPrzyjazny
+
 > "Your idiom's as good as your English." ^(- said Jason Bourne to Wu Song, a Chinese, in *"The Bourne Supremacy"*)^
 
 czytaj również [FAQ][8]
