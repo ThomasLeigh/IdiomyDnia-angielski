@@ -1,6 +1,6 @@
 Idiomy Dnia - FAQ
 =======================
-	updated: ...at some nice night of November 15 :) (11:28 ᴘ.ᴍ.)
+	updated: ...at some nice evening of May 15 :) (9:10 ᴘ.ᴍ.)
 
 
 * Zauważyłem że aktualizujesz bazę co kilka dni. Jak często zalecałbyś pobierać nowe wersje?
@@ -44,7 +44,7 @@ jakiej czcionki używasz. Czcionki *OpenSans* nie rozróżniają formatowania te
 
 Abstrahując od samej natury idiomów, w której leży ich zwyczajowy brak dosłownego tłumaczenia, czy wręcz nieprzetłumaczalność - staram się opatrywać anglojęzyczne idiomy jak najbardziej intuicyjnymi odpowiednikami w języku polskim. Niekiedy jednak by wyrazić jedno i to samo (lub prawie to samo) w dwóch różnych językach używa się różnych przenośni, które nie brzmiałyby dobrze gdyby przetłumaczyć je bardziej dosłownie. Stąd przykładowo *„pracowita pszczółka”* wydaje się znacznie częściej obecna w języku polskim, niż *„pracowity bobrek”* ;) (którego to wyrażenia w istocie nie słyszałem nigdy). Podobnie z pewnością znasz zwrot *„szczęśliwy jak skowronek”*, lecz czy spotkałeś/aś się kiedykolwiek w Polsce ze *„szczęśliwym małżem”* :) ? Zdarzają się niestety przypadki, gdy idiomy nie są do siebie aż tak bardzo zbliżone, z drugiej strony jednakże są sobie wystarczająco bliskie by można było pokusić się o zestawienie ich razem - jak np. w przypadku wspomnianego *„wilka w owczej skórze”* i angielskiego *„devil in disguise”*.
 
-W sporej liczbie przypadków biorę pod uwagę, iż mogę nie znać lub nie pamiętać polskiego zwrotu, który najlepiej nadawałby się w danym przypadku - wówczas odnotowuję takie pozycje na specjalnej liście, dostępnej pod adresem https://github.com/ThomasLeigh/IdiomyDnia-angielski (w dolnej części strony). Jeżeli chciał(a)byś zasugerować lepszy odpowiednik dla konkretnego idiomu, pisz śmiało na ohhtjm@gmail.com .
+W sporej liczbie przypadków biorę pod uwagę, iż mogę nie znać lub nie pamiętać polskiego zwrotu, który najlepiej nadawałby się w danym przypadku. Jeżeli chciał(a)byś zasugerować lepszy odpowiednik dla konkretnego idiomu, pisz śmiało na ohhtjm@gmail.com .
 
 * Co oznacza dopisek „#2” przy niektórych idiomach?
 
