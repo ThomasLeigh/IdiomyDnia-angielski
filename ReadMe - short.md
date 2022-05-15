@@ -3,16 +3,16 @@ Idiomy Dnia. ^(pl - ang/ang-pl)^
 
 > Angielski dla początkujących na Telegramie: https://t.me/angielskiPrzyjazny
 
-> Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
+> Od wersji *5.6* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan („kamienie milowe”).
 
-> **najnowsza wersja (plik *"Idiomy-Dnia-US_UK-PL.apkg"*):**   
+> **najnowsza wersja (plik *„Idiomy-Dnia-US_UK-PL.apkg”*):**   
 https://github.com/ThomasLeigh/IdiomyDnia-angielski
 
 > historia aktualizacji:   
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/commits/master
 
-> "kamienie milowe":  
-**v.6.2 - 14.11.2021 | 1538 kart.**  
+> „kamienie milowe”:  
+**v.6.3 - 15.05.2022 | 1567 kart.**  
 https://github.com/ThomasLeigh/IdiomyDnia-angielski/releases
 
 Przydatne informacje (metoda nauki, program Anki, itp.):    
@@ -23,7 +23,7 @@ https://github.com/ThomasLeigh/IdiomyDnia-angielski/blob/master/FAQ.md
 
 
 
-> "Your idiom's as good as your English." ^(- said Jason Bourne to Wu Song, a Chinese, in *"The Bourne Supremacy"*)^
+> “Your idiom's as good as your English.” ^(- said Jason Bourne to Wu Song, a Chinese, in *The Bourne Supremacy*)^
 
 
 ## Opis skrócony:
@@ -35,12 +35,9 @@ Niniejszy zbiór zawiera zestaw profesjonalnie opracowanych, **współczesnych, 
 ## Zawartość.
 Tłumaczenie na polski zwykle przeprowadzałem samodzielnie, tu i ówdzie posiłkując się słownikiem. W związku z tym iż częstokroć nie warto tłumaczyć idiomów dosłownie, na kartach podaję **propozycje najbliższych znaczeniowo polskich odpowiedników**.
 
-Jak wspomniałem wyżej, **"tłumaczenie" idiomów jest procesem dość subiektywnym**, gdyż częstokroć sprowadza się do znalezienia możliwie najbardziej adekwatnego odpowiednika w języku polskim - który z angielskim oryginałem będzie **zbieżny znaczeniowo**, natomiast w dosłownej formie może się nawet **dość odeń różnić**.
+Jak wspomniałem wyżej, **„tłumaczenie” idiomów jest procesem dość subiektywnym**, gdyż częstokroć sprowadza się do znalezienia możliwie najbardziej adekwatnego odpowiednika w języku polskim - który z angielskim oryginałem będzie **zbieżny znaczeniowo**, natomiast w dosłownej formie może się nawet **dość odeń różnić**.
 
-Stąd efektywność/trafność przełożenia idiomów z jednego języka na drugi zależy nie tyle od posiadanego zasobu słownictwa tłumacza, co **rozeznania w idiomach w jego ojczystym języku**. W tej materii czynię co w Mojej mocy by uzyskać najlepszy efekt - nie zawsze jednak jestem przekonany iż Mój wybór jest wystarczająco trafny, a czasem wręcz brak Mi pomysłu.
-
-**Jeśli chciał(a)byś mieć Swój wkład w rozwój tej bazy**, na stronie https://github.com/ThomasLeigh/IdiomyDnia/releases możesz zapoznać się z listą idiomów, których znalezienie odpowiednio trafnego polskiego odpowiednika nadal jest dla Mnie wyzwaniem - i **zaproponować Własną sugestię**. Lista ta jest aktualizowana wraz z każdym następnym wydaniem bazy.
-
+Stąd efektywność/trafność przełożenia idiomów z jednego języka na drugi zależy nie tyle od posiadanego zasobu słownictwa tłumacza, co **rozeznania w idiomach w jego ojczystym języku**. W tej materii czynię co w mojej mocy by uzyskać najlepszy efekt - nie zawsze jednak jestem przekonany iż mój wybór jest wystarczająco trafny, a czasem wręcz brak mi pomysłu.
 
 
 ## Aktualizacje.
